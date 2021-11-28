@@ -1,12 +1,13 @@
 # Pewlett-Hackard-Analysis
 # Source Files: 
-* Click [Here](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Images%20) for the code files. 
+* The challenege code is in the [queries](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Queries) folder.
 * Images from the Challenge: 
   * [Mentorship Eligibilty](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Mentorship_Eligibilty.png)
   * [Retirement Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Retirement_titles.png)
   * [Uniques Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Uniques_titles.png)
   * [Retiring Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Images)
-  
+* All csv files are located [here](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Data)
+
 # Overview of the analysis: 
 ### In this analysis, we worked with Pewlett-Hackard to look analyze their employee status.  Pewlett-Hackard wants to be prepared for the next generation of employees retiring and how many job openings would they need to fill.  This is key to analyze so the company has a better understand the type of talent and how many from each department. 
 
