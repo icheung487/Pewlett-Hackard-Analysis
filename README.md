@@ -13,14 +13,15 @@
 
 # Results: 
 * Deliverable 1: The number of retiring employees by titles: 
- * After filtering,joining and removing the duplicates, the results are 90,398 employees that will be retiring soon. More than 60% of retiring staff are either senior engineers or senior staffs. Below is a break down of retiring positions, which is clear that many senior position are key placements to fill for the upcoming year 
+  * After filtering,joining and removing the duplicates, the results are 90,398 employees that will be retiring soon. More than 60% of retiring staff are either senior engineers or senior staffs. Below is a break down of retiring positions, which is clear that many senior position are key placements to fill for the upcoming year.
 * ![image](https://user-images.githubusercontent.com/83436302/143725510-f4c621ab-91b2-4174-9677-102e8dfbaa13.png)
 
 
 * Deliverable 2:  
-* Below is a list of employees that are eligivle for the mentorship program. It's clear that the qualifiying candidates are much lower than exepected for a variety of reasons.  It could be the employees are not interested in the mentorship.  Even so, it does draw a right flag since there will be more employees retiring than training the upcoming senior position to fill. 
+* Below is a list of employees that are eligible for the mentorship program. It's clear that the qualifiying candidates are much lower than expected for a variety of reasons.  It could be the employees are not interested in the mentorship.  Even so, it does draw a right flag since there will be more employees retiring than training the upcoming senior position to fill. 
+![image](https://user-images.githubusercontent.com/83436302/143725966-4b5ce2f5-db11-4448-ab78-73a376ff722f.png)
+
 
 # Summmary: 
-* How many roles will need to be filled as the silver tsunami begins to make an impact? There will be about 90K employees that will need to be filled. 
-* Are there enough qualified, retirement-ready employees in the depts to mentor the next generation of Pewlette Hackard employees 
-No, there are more employees retiring that 
+* There will be about 90K reitiring employees that will need to be filled once they leave.
+* Yes, there are more retirement-ready employees than mentors.  However, if these employees retire, there will not be enough of them to mentor them since it's a gap between the two. 
