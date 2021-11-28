@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 # Source Files: 
-* The challenege code is in the [queries](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Queries) folder.
+* The challenge code is in the [queries](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Queries) folder.
 * Images from the Challenge: 
   * [Mentorship Eligibilty](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Mentorship_Eligibilty.png)
   * [Retirement Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Retirement_titles.png)
@@ -13,7 +13,7 @@
 
 # Results: 
 * Deliverable 1: The number of retiring employees by titles: 
-* After filtering,joining and removing the duplicates, the results are 90,398 employees that will be retiring soon. More than 60% of retiring staff are either senior engineers or senior staffs. Below is a break down of retiring positions, which is clear that many senior position are key placements to fill for the upcoming year 
+ * After filtering,joining and removing the duplicates, the results are 90,398 employees that will be retiring soon. More than 60% of retiring staff are either senior engineers or senior staffs. Below is a break down of retiring positions, which is clear that many senior position are key placements to fill for the upcoming year 
 * ![image](https://user-images.githubusercontent.com/83436302/143725510-f4c621ab-91b2-4174-9677-102e8dfbaa13.png)
 
 
