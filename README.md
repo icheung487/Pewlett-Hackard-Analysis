@@ -9,12 +9,12 @@
 * All csv files are located [here](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Data)
 
 # Overview of the analysis: 
-### In this analysis, we worked with Pewlett-Hackard to look analyze their employee status.  Pewlett-Hackard wants to be prepared for the next generation of employees retiring and how many job openings would they need to fill.  This is key to analyze so the company has a better understand the type of talent and how many from each department. 
+ In this analysis, we worked with Pewlett-Hackard to look analyze their employee status.  Pewlett-Hackard wants to be prepared for the next generation of employees retiring and how many job openings would they need to fill.  This is key to analyze so the company has a better understand the type of talent and how many from each department. 
 
 # Results: 
 * Deliverable 1: The number of retiring employees by titles: 
   * After filtering,joining and removing the duplicates, the results are 90,398 employees that will be retiring soon. More than 60% of retiring staff are either senior engineers or senior staffs. Below is a break down of retiring positions, which is clear that many senior position are key placements to fill for the upcoming year.
-* ![image](https://user-images.githubusercontent.com/83436302/143725510-f4c621ab-91b2-4174-9677-102e8dfbaa13.png)
+ ![image](https://user-images.githubusercontent.com/83436302/143725510-f4c621ab-91b2-4174-9677-102e8dfbaa13.png)
 
 
 * Deliverable 2:  
