@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 # Source Files: 
-Click [Here](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Images%20) for the code files. 
-Images from the Challenge: 
-  * Mentorship Eligibilty
-  * Retirement Titles
-  * Uniques Titles
+* Click [Here](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Images%20) for the code files. 
+* Images from the Challenge: 
+  * [Mentorship Eligibilty](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Mentorship_Eligibilty.png)
+  * [Retirement Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Retirement_titles.png)
+  * [Uniques Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/blob/main/Images%20/Uniques_titles.png)
   * [Retiring Titles](https://github.com/icheung487/Pewlett-Hackard-Analysis/tree/main/Images)
   
 # Overview of the analysis: 
